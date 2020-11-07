@@ -2,7 +2,6 @@ import shutil
 import time
 
 def Devil():
-  clock = time.sleep(1)
   print(""" 
             ^         ^
            ( (_______) )            
